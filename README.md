@@ -2,4 +2,4 @@
 
 # Document 
 
-Homework4.pdf
+[View Homework 4 PDF] (https://github.com/eliza-data/DSCI552_HW4/blob/main/documents/Homework4.pdf)
